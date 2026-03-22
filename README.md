@@ -1,16 +1,23 @@
-## Hi there 👋
+# Riccardo — AI Student
 
-<!--
-**aithos-rr/aithos-rr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Philosophy & Artificial Intelligence @ Sapienza University of Rome  
 
-Here are some ideas to get you started:
+## 🔍 Interests
+- AI Agents & Multi-Agent Systems  
+- Machine Learning Systems  
+- Automation & Applied AI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Current Focus
+- Building small AI projects and workflows  
+- Exploring integration of local and cloud models  
+- Improving practical and collaborative development skills  
+
+## 🚀 Direction
+I’m interested in applying AI to real-world problems, with a long-term goal of working on AI systems and automation in practical contexts.
+
+## 🎯 Goal
+Develop strong technical skills and build projects that can evolve into real-world applications and future professional opportunities.
+
+## 📌 Notes
+Currently balancing university exams with personal AI projects.  
+Actively improving both technical and practical skills in AI.
